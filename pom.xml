@@ -62,7 +62,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/fahtinurai/test_praktik_percobaan</url>
+            <url>https://maven.pkg.github.com/fahtinurai/test_praktik_percobaan_2</url>
         </repository>
     </distributionManagement>
 
