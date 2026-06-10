@@ -11,7 +11,7 @@ public class Counter {
     public void reset() {
         count = 0;
     }
-    // Trigger Sonar Analysis
+    // Trigger Sonar Analysis fixed
     public void increment() {
         count++;
     }
